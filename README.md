@@ -2,11 +2,11 @@
 
 Classroom: Classroom 50
 Assignment: aula05-cadastro-alunos-dupla
-Turma:
-Dupla:
-Integrante A:
-Integrante B:
-Data:
+Turma: Turma Única - Matutino
+Dupla: Lucas Nunes e Vinicius Aurelio
+Integrante A: Lucas Nunes
+Integrante B: Vinicius Aurelio
+Data:28/08/2026
 
 ## Atenção sobre o repositório
 
@@ -175,19 +175,19 @@ Testar:
 
 ## Registro da divisão de tarefas
 
-**Integrante A:**
+**Integrante A: Lucas Nunes
 
-**Integrante B:**
+**Integrante B: Vinicius Aurelio
 
 ## Commits obrigatórios
 
 * Integrante A realizou pelo menos um commit próprio?
-* Integrante B realizou pelo menos um commit próprio?
+* Integrante B realizou pelo menos um commit próprio? 
 * Os commits foram enviados para o mesmo repositório?
 
 ## Testes realizados
 
-* Cadastro de aluno:
+* Cadastro de aluno: 
 * Listagem:
 * Busca por nome:
 * Busca por aluno inexistente:
