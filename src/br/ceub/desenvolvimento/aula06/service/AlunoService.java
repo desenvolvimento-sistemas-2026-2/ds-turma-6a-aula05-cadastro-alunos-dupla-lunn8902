@@ -1,9 +1,9 @@
-package br.ceub.desenvolvimento.aula05.service;
+package br.ceub.desenvolvimento.aula06.service;
 
 import java.util.List;
 
-import br.ceub.desenvolvimento.aula05.model.Aluno;
-import br.ceub.desenvolvimento.aula05.repository.AlunoRepository;
+import br.ceub.desenvolvimento.aula06.model.Aluno;
+import br.ceub.desenvolvimento.aula06.repository.AlunoRepository;
 
 public class AlunoService {
     private AlunoRepository repository;
@@ -13,7 +13,6 @@ public class AlunoService {
     }
 
     public String cadastrar(String nome, int semestre, String curso) {
-        // TODO integrante B: revisar as validacoes antes de criar o objeto.
         if (nome == null || nome.trim().isEmpty()) {
             return "Nome e obrigatorio.";
         }

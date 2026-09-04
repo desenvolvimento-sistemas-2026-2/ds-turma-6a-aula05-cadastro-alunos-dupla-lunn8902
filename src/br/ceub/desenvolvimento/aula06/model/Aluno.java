@@ -1,4 +1,4 @@
-package br.ceub.desenvolvimento.aula05.model;
+package br.ceub.desenvolvimento.aula06.model;
 
 public class Aluno {
     private String nome;
